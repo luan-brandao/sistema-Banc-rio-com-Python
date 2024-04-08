@@ -1,4 +1,3 @@
-# sistema-Banc-rio-com-Python
 
 # Sistema Bancário com Python
 
